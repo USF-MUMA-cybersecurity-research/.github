@@ -1,1 +1,1 @@
-# .github
+# Admin repo
