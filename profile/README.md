@@ -1,4 +1,4 @@
-## Hi there 👋
+## Exploring AI & Data Tech applications in the Cyber world
 
 <!--
 
